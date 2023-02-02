@@ -1,0 +1,6 @@
+--donwload virtual environment in the folder
+--activate the virtual environment
+-- pip install flask or requirements.txt
+-- set FLASK_APP = app.py
+-- flask run
+-- to compile the packages for later, we can bind them all in requirements.txt using command pip freeze > requirements.txt
